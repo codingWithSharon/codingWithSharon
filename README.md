@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm currently working on fundamental programming skills and practicing test automation with Playwright.
-![CodeWars Badge](https://www.codewars.com/users/codingWithSharon/badges/large)
+![CodeWars Badge](https://www.codewars.com/users/codingWithSharon/badges/micro)
 
 <!--
 **codingWithSharon/codingWithSharon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
