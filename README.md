@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-I'm currently working on fundamental programming skills and practicing test automation with Playwright.
+I'm currently working on fundamental programming skills and practicing test automation with Playwright. 
+
+Languages:
+
+JavaScript
+C#
+
 
 ![CodeWars Badge](https://www.codewars.com/users/codingWithSharon/badges/micro)
 
