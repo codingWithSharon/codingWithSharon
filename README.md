@@ -5,7 +5,9 @@ I'm currently working on fundamental programming skills and practicing test auto
 Languages:
 
 JavaScript
+
 C#
+
 
 
 ![CodeWars Badge](https://www.codewars.com/users/codingWithSharon/badges/micro)
